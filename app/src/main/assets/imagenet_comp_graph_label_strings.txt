@@ -1,1001 +1,1001 @@
-dummy
-kit fox
-English setter
-Siberian husky
-Australian terrier
-English springer
-grey whale
-lesser panda
-Egyptian cat
-ibex
-Persian cat
-cougar
-gazelle
-porcupine
-sea lion
-malamute
-badger
-Great Dane
-Walker hound
-Welsh springer spaniel
-whippet
-Scottish deerhound
-killer whale
-mink
-African elephant
-Weimaraner
-soft-coated wheaten terrier
+ダミー
+キットギツネ
+イングリッシュセッター
+シベリアンハスキー
+オーストラリアのテリア
+英国のはねる人
+コククジラ
+レッサーパンダ
+エジプトの猫
+アイベックス
+ペルシャ猫
+クーガー
+ガゼル
+ヤマアラシ
+アシカ
+アラスカンマラミュート
+アナグマ
+グレートデーン
+ウォーカー猟犬
+ウェルシュスプリンガースパニエル
+ホイペット
+スコッティッシュディアハウンド
+シャチ
+ミンク
+アフリカの象
+ワイマラナー犬
+イートンテリア
 Dandie Dinmont
-red wolf
-Old English sheepdog
-jaguar
-otterhound
-bloodhound
-Airedale
-hyena
-meerkat
-giant schnauzer
-titi
-three-toed sloth
-sorrel
-black-footed ferret
-dalmatian
-black-and-tan coonhound
-papillon
-skunk
-Staffordshire bullterrier
-Mexican hairless
-Bouvier des Flandres
-weasel
-miniature poodle
-Cardigan
+赤狼
+オールドイングリッシュシープドッグ
+ジャガー
+オッターハウンド
+ブラッドハウンド
+エアデールテリア
+ハイエナ
+ミーアキャット
+ジャイアントシュナウツァー
+ティーティー
+ミツユビナマケモノ
+スイバ類
+クロアシイタチ
+ダルマシアン
+ブラックアンドタンクーンハウンド
+パピヨン種
+スカンク
+スタッフォードシア・ブルテリア
+メキシカンヘアレス
+ブービエデフランドル
+イタチ
+ミニ・プードル
+カーディガン
 malinois
-bighorn
-fox squirrel
-colobus
-tiger cat
-Lhasa
-impala
-coyote
-Yorkshire terrier
-Newfoundland
-brown bear
-red fox
-Norwegian elkhound
-Rottweiler
-hartebeest
-Saluki
-grey fox
-schipperke
-Pekinese
-Brabancon griffon
-West Highland white terrier
-Sealyham terrier
-guenon
-mongoose
-indri
-tiger
-Irish wolfhound
-wild boar
+オオツノヒツジ
+キツネリス
+コロブス属のサル
+トラネコ
+ラサ
+インパラ
+コヨーテ
+ヨークシャーテリア
+ニューファンドランド
+ヒグマ
+キツネ
+ノルウェジアンエルクハウンド
+ロットワイラー
+ハーテビースト
+サルーキ犬
+ハイイロギツネ
+スキーパーケ
+北京人
+Brabanconグリフォン
+ウェストハイランドホワイトテリア
+シーリアムテリア
+グエノン
+マングース
+インドリ
+トラ
+アイリッシュウルフハウンド
+イノシシ
 EntleBucher
-zebra
-ram
-French bulldog
-orangutan
-basenji
-leopard
-Bernese mountain dog
-Maltese dog
-Norfolk terrier
-toy terrier
-vizsla
-cairn
-squirrel monkey
+シマウマ
+ラム
+フレンチブルドッグ
+オランウータン
+バセンジー
+ヒョウ
+ベルンの山犬
+マルチーズ
+ノーフォークテリア
+おもちゃのテリア
+ビズラ
+石塚
+リスザル
 groenendael
-clumber
-Siamese cat
-chimpanzee
-komondor
-Afghan hound
-Japanese spaniel
-proboscis monkey
-guinea pig
-white wolf
-ice bear
-gorilla
-borzoi
-toy poodle
-Kerry blue terrier
-ox
-Scotch terrier
-Tibetan mastiff
-spider monkey
-Doberman
-Boston bull
-Greater Swiss Mountain dog
-Appenzeller
-Shih-Tzu
-Irish water spaniel
-Pomeranian
-Bedlington terrier
-warthog
-Arabian camel
-siamang
-miniature schnauzer
-collie
-golden retriever
-Irish terrier
-affenpinscher
-Border collie
-hare
-boxer
-silky terrier
-beagle
+クランバー
+シャムネコ
+チンパンジー
+コモンドール犬
+アフガニスタンの猟犬
+チン
+テングザル
+モルモット
+ホッキョクオオカミ
+氷クマ
+ゴリラ
+ボルゾイ
+おもちゃのプードル
+ケリーブルーテリア
+雄牛
+スコッチテリア
+チベットのマスチフ
+クモザル
+ドーベルマン
+ボストンテリア
+より大きなスイスの山犬
+アッペンツェラー
+シーズー
+アイリッシュウォータースパニエル
+ポメラニアン
+Bedlingtonテリア
+イボイノシシ
+ヒトコブラクダ
+フクロテナガザル
+ミニチュアシュナウツァー
+コリー
+ゴールデンレトリーバー
+アイリッシュテリア
+アフェンピンシャー
+ボーダーコリー
+ウサギ
+ボクサー
+シルキーテリア
+ビーグル
 Leonberg
-German short-haired pointer
-patas
-dhole
-baboon
-macaque
-Chesapeake Bay retriever
-bull mastiff
-kuvasz
-capuchin
-pug
-curly-coated retriever
-Norwich terrier
-flat-coated retriever
-hog
-keeshond
-Eskimo dog
-Brittany spaniel
-standard poodle
-Lakeland terrier
-snow leopard
-Gordon setter
-dingo
-standard schnauzer
-hamster
-Tibetan terrier
-Arctic fox
-wire-haired fox terrier
-basset
-water buffalo
-American black bear
-Angora
-bison
-howler monkey
-hippopotamus
-chow
-giant panda
-American Staffordshire terrier
-Shetland sheepdog
-Great Pyrenees
-Chihuahua
-tabby
-marmoset
-Labrador retriever
-Saint Bernard
-armadillo
-Samoyed
-bluetick
-redbone
-polecat
-marmot
-kelpie
-gibbon
-llama
-miniature pinscher
-wood rabbit
-Italian greyhound
-lion
-cocker spaniel
-Irish setter
-dugong
-Indian elephant
-beaver
-Sussex spaniel
-Pembroke
-Blenheim spaniel
-Madagascar cat
-Rhodesian ridgeback
-lynx
-African hunting dog
-langur
-Ibizan hound
-timber wolf
-cheetah
-English foxhound
-briard
-sloth bear
-Border terrier
-German shepherd
-otter
-koala
-tusker
-echidna
-wallaby
-platypus
-wombat
-revolver
-umbrella
-schooner
-soccer ball
-accordion
-ant
-starfish
-chambered nautilus
-grand piano
-laptop
-strawberry
-airliner
-warplane
-airship
-balloon
-space shuttle
-fireboat
-gondola
-speedboat
-lifeboat
-canoe
-yawl
-catamaran
-trimaran
-container ship
-liner
-pirate
-aircraft carrier
-submarine
-wreck
-half track
-tank
-missile
-bobsled
-dogsled
+ドイツのショートヘアのポインター
+パタスモンキー
+ドール犬
+ヒヒ
+マカーク
+チェサピークベイレトリーバー
+雄のマスチフ
+クバース犬
+フード付き婦人用外套
+パグ
+カーリーコーテッドレトリーバー
+ノリッジテリア
+フラットコーテッドレトリーバー
+豚
+キースホンド犬
+エスキモー犬
+ブリタニースパニエル
+標準的なプードル
+レークランドテリア
+ユキヒョウ
+ゴードンセッター
+ディンゴ
+スタンダードシュナウツァー
+ハムスター
+チベタンテリア
+ホッキョクギツネ
+剛毛のフォックステリア
+バセット
+水牛
+アメリカのクロクマ
+アンゴラ
+バイソン
+ホエザル
+カバ
+食い物
+ジャイアントパンダ
+アメリカのブルテリア
+シェトランドシープドッグ
+グレートピレニーズ
+チワワ
+ぶちネコ
+マーモセット
+ラブラドルレトリーバー
+セントバーナード
+アルマジロ
+サモエード語
+ブルーティック
+レッドボーン
+スカンク
+マーモット
+水魔
+テナガザル
+ラマ
+ミニチュアピンシェル
+ワタオウサギ
+イタリアングレーハウンド
+ライオン
+コッカースパニエル
+アイリッシュセッター
+ジュゴン
+インド象
+ビーバー
+サセックススパニエル
+ペンブルックシア
+ブレニムスパニエル
+マダガスカル猫
+ローデシアのローデシアンリッジバック
+オオヤマネコ
+アフリカの猟犬
+ラングール
+イビサハウンド
+シンリンオオカミ
+チータ
+イングリッシュフォックスハウンド
+ブリアール
+ナマケグマ
+ボーダーテリア
+シェパード
+カワウソ
+コアラ
+牙のある動物
+ハリモグラ
+ワラビー
+カモノハシ
+ウォンバット
+リボルバー
+傘
+スクーナー
+サッカーボール
+アコーディオン
+アリ
+ヒトデ
+オウムガイ
+グランドピアノ
+ラップトップ
+イチゴ
+大型旅客機
+軍用機
+飛行船
+風船
+スペースシャトル
+消防艇
+ゴンドラ
+高速ボート
+救命艇
+カヌー
+ヨール
+双胴船
+三胴船
+コンテナ船
+ライナー
+海賊
+航空母艦
+潜水艦
+残骸
+半分のトラック
+タンク
+ミサイル
+ボブスレー
+犬ぞり
 bicycle-built-for-two
-mountain bike
-freight car
-passenger car
-barrow
-shopping cart
-motor scooter
-forklift
-electric locomotive
-steam locomotive
-amphibian
-ambulance
-beach wagon
-cab
-convertible
-jeep
-limousine
-minivan
-Model T
-racer
-sports car
-go-kart
+マウンテン・バイク
+貨車
+乗用車
+手押し車
+ショッピングカート
+スクーター
+フォークリフト
+電気機関車
+蒸気機関車
+両生類
+救急車
+ビーチワゴン
+タクシー
+コンバーチブル
+ジープ
+リムジン
+ミニバン
+Ｔ型
+レーサー
+スポーツカー
+ゴーカート
 golfcart
-moped
-snowplow
-fire engine
-garbage truck
-pickup
-tow truck
-trailer truck
-moving van
-police van
-recreational vehicle
-streetcar
-snowmobile
-tractor
-mobile home
-tricycle
-unicycle
-horse cart
-jinrikisha
-oxcart
-bassinet
-cradle
-crib
-four-poster
-bookcase
-china cabinet
-medicine chest
-chiffonier
-table lamp
-file
-park bench
-barber chair
-throne
-folding chair
-rocking chair
-studio couch
-toilet seat
-desk
-pool table
-dining table
-entertainment center
-wardrobe
-Granny Smith
-orange
-lemon
-fig
-pineapple
-banana
-jackfruit
-custard apple
-pomegranate
-acorn
-hip
-ear
-rapeseed
-corn
-buckeye
-organ
-upright
-chime
-drum
-gong
-maraca
-marimba
-steel drum
-banjo
-cello
-violin
-harp
-acoustic guitar
-electric guitar
-cornet
-French horn
-trombone
-harmonica
-ocarina
-panpipe
-bassoon
-oboe
-sax
-flute
-daisy
-yellow lady's slipper
-cliff
-valley
-alp
-volcano
-promontory
-sandbar
-coral reef
-lakeside
-seashore
-geyser
-hatchet
-cleaver
-letter opener
-plane
-power drill
-lawn mower
-hammer
-corkscrew
-can opener
-plunger
-screwdriver
-shovel
-plow
-chain saw
-cock
-hen
-ostrich
-brambling
-goldfinch
-house finch
-junco
-indigo bunting
-robin
-bulbul
-jay
-magpie
-chickadee
-water ouzel
-kite
-bald eagle
-vulture
-great grey owl
-black grouse
-ptarmigan
-ruffed grouse
-prairie chicken
-peacock
-quail
-partridge
-African grey
-macaw
-sulphur-crested cockatoo
-lorikeet
-coucal
-bee eater
-hornbill
-hummingbird
-jacamar
-toucan
-drake
-red-breasted merganser
-goose
-black swan
-white stork
-black stork
-spoonbill
-flamingo
-American egret
-little blue heron
-bittern
-crane
-limpkin
-American coot
-bustard
-ruddy turnstone
-red-backed sandpiper
-redshank
-dowitcher
-oystercatcher
-European gallinule
-pelican
-king penguin
-albatross
-great white shark
-tiger shark
-hammerhead
-electric ray
-stingray
-barracouta
-coho
-tench
-goldfish
-eel
-rock beauty
-anemone fish
-lionfish
-puffer
-sturgeon
-gar
-loggerhead
-leatherback turtle
-mud turtle
-terrapin
-box turtle
-banded gecko
-common iguana
-American chameleon
+モペット
+除雪装置
+消防車
+ごみ収集トラック
+ピックアップ
+レッカー車
+トレーラー
+引越しトラック
+囚人護送車
+レクリエーション車
+路面電車
+スノーモービル
+トラクター
+モービルハウス
+三輪車
+一輪車
+馬カート
+人力車
+牛車
+幌付き乳母車
+揺りかご
+ベビーベッド
+四柱式寝台
+本棚
+磁器キャビネット
+薬箱
+低い食器棚
+テーブルランプ
+ファイル
+公園ベンチ
+床屋椅子
+王座
+折り畳み式椅子
+ロッキングチェア
+寝台兼用ソファー
+便座
+机
+玉突き台
+食卓
+エンターテイメント・センター
+衣装
+おばあさんスミス
+オレンジ
+レモン
+イチジク
+パイナップル
+バナナ
+パラミツ
+ギュウシンリ
+ザクロ
+ドングリ
+腰
+耳
+菜種
+コーン
+トチノキ
+器官
+直立部分
+チャイム
+ドラム
+ゴング
+マラカス
+マリンバ
+スティール・ドラム
+バンジョー
+チェロ
+バイオリン
+ハープ
+アコースティックギター
+エレキギター
+コルネット
+フレンチホルン
+トロンボーン
+ハーモニカ
+オカリナ
+パンパイプ
+バスーン
+オーボエ
+サックス
+フルート
+ヒナギク
+黄色のアツモリソウ
+崖
+谷
+高原
+火山
+岬
+砂州
+珊瑚礁
+湖畔
+海岸
+間欠泉
+手斧
+肉切り包丁
+手紙オープナー
+飛行機
+パワードリル
+芝刈り機
+ハンマー
+コルク栓抜き
+缶切り
+プランジャー
+ネジ回し
+シャベル
+鋤
+チェーンソー
+雄鶏
+雌鶏
+ダチョウ
+アトリ
+ゴシキヒワ
+メキシコマシコ
+ジャンコウ
+ルリノジコ
+コマドリ
+ブルブル
+カケス
+カササギ
+アメリカコガラ
+カワガラス
+凧
+ハクトウワシ
+ハゲワシ
+カラフトフクロウ
+クロライチョウ
+ライチョウ
+エリマキライチョウ
+ソウゲンライチョウ
+クジャク
+ウズラ
+ヤマウズラ
+アフリカの灰色
+コンゴウインコ
+硫黄とさかのあるボタンインコ
+インコ
+バンケン
+ハチクイ
+サイチョウ
+ハチドリ
+キリハシ
+オオハシ
+雄ガモ
+ウミアイサ
+ガチョウ
+コクチョウ
+白いコウノトリ
+ナベコウ
+ヘラサギ
+フラミンゴ
+アメリカのサギ
+ヒメアカクロサギ
+サンカノゴイ
+クレーン
+ツルモドキ
+アメリカのクロガモ
+ノガン
+キョウジョシギ
+赤に後援された鴫
+アカアシシギ
+オオハシシギ
+ミヤコドリ
+ヨーロッパのバン
+ペリカン
+オオサマペンギン
+アルバトロス
+ホオジロザメ
+イタチザメ
+ハンマーの頭
+シビレエイ
+アカエイ
+カマス
+ギンザケ
+テンチ
+金魚
+ウナギ
+チョウチョウウオ
+アネモネ魚
+ミノカサゴ
+フグ
+チョウザメ
+ダツ
+アカウミガメ
+オサガメ・カメ
+ドロガメ
+テラピン
+アメリカハコガメ
+縛られたヤモリ
+一般のイグアナ
+アメリカのカメレオン
 whiptail
-agama
-frilled lizard
-alligator lizard
-Gila monster
-green lizard
-African chameleon
-Komodo dragon
-triceratops
-African crocodile
-American alligator
-thunder snake
-ringneck snake
-hognose snake
-green snake
-king snake
-garter snake
-water snake
-vine snake
-night snake
-boa constrictor
-rock python
-Indian cobra
-green mamba
-sea snake
-horned viper
-diamondback
-sidewinder
-European fire salamander
-common newt
-eft
-spotted salamander
-axolotl
-bullfrog
-tree frog
-tailed frog
-whistle
-wing
-paintbrush
-hand blower
-oxygen mask
-snorkel
-loudspeaker
-microphone
-screen
-mouse
-electric fan
-oil filter
-strainer
-space heater
-stove
-guillotine
-barometer
-rule
-odometer
-scale
-analog clock
-digital clock
-wall clock
-hourglass
-sundial
-parking meter
-stopwatch
-digital watch
-stethoscope
-syringe
-magnetic compass
-binoculars
-projector
-sunglasses
-loupe
-radio telescope
-bow
-cannon [ground]
-assault rifle
-rifle
-projectile
-computer keyboard
-typewriter keyboard
-crane
-lighter
-abacus
-cash machine
-slide rule
-desktop computer
-hand-held computer
-notebook
-web site
-harvester
-thresher
-printer
-slot
-vending machine
-sewing machine
-joystick
-switch
-hook
-car wheel
+アガマトカゲ
+エリマキトカゲ
+ワニ・トカゲ
+アメリカドクトカゲ
+緑のトカゲ
+アフリカのカメレオン
+コモドオオトカゲ
+トリケラトプス
+アフリカのワニ
+アメリカのワニ
+雷ヘビ
+クビワヘビ
+ハナダカヘビ
+アオヘビ
+キングスネーク
+ガーターヘビ
+ミズヘビ
+つるヘビ
+夜ヘビ
+ボアコンストリクター
+岩パイソン
+インドコブラ
+緑のマンバ
+ウミヘビ
+ツノクサリヘビ
+ヒシモンガラガラヘビ
+サイドワインダー
+ヨーロッパの火サンショウウオ
+一般のイモリ
+イモリ
+トラフサンショウウオ
+アホロートル
+ウシガエル
+アマガエル
+後ろについて行かれたカエル
+口笛
+翼
+絵筆
+手ブロワー
+酸素マスク
+シュノーケル
+拡声器
+マイク
+スクリーン
+マウス
+扇風機
+油フィルタ
+ストレーナー
+室内暖房器
+ストーブ
+ギロチン
+バロメーター
+支配
+走行距離計
+スケール
+アナログ時計
+デジタル時計
+掛時計
+砂時計
+日時計
+パーキングメーター
+ストップウォッチ
+デジタル時計
+聴診器
+注射器
+磁気コンパス
+双眼鏡
+プロジェクター
+サングラス
+ルーペ
+電波望遠鏡
+会釈
+大砲［地面］
+突撃銃
+ライフル
+発射体
+コンピュータ・キーボード
+タイプライター・キーボード
+クレーン
+ライター
+そろばん
+ＡＴＭ
+計算尺
+デスクトップ・コンピュータ
+ハンドヘルド・コンピュータ
+ノート
+ウェブサイト
+収穫者
+脱穀機
+プリンター
+スロット
+自動販売機
+ミシン
+ジョイスティック
+スイッチ
+フック
+自動車の車輪
 paddlewheel
-pinwheel
-potter's wheel
-gas pump
-carousel
-swing
-reel
-radiator
-puck
-hard disc
-sunglass
-pick
-car mirror
-solar dish
-remote control
-disk brake
-buckle
-hair slide
-knot
-combination lock
-padlock
-nail
-safety pin
-screw
-muzzle
-seat belt
-ski
-candle
-jack-o'-lantern
-spotlight
-torch
-neck brace
-pier
-tripod
-maypole
-mousetrap
-spider web
-trilobite
-harvestman
-scorpion
-black and gold garden spider
-barn spider
-garden spider
-black widow
-tarantula
-wolf spider
-tick
-centipede
-isopod
-Dungeness crab
-rock crab
-fiddler crab
-king crab
-American lobster
-spiny lobster
-crayfish
-hermit crab
-tiger beetle
-ladybug
-ground beetle
-long-horned beetle
-leaf beetle
-dung beetle
-rhinoceros beetle
-weevil
-fly
-bee
-grasshopper
-cricket
-walking stick
-cockroach
-mantis
-cicada
-leafhopper
-lacewing
-dragonfly
-damselfly
-admiral
-ringlet
-monarch
-cabbage butterfly
-sulphur butterfly
+風車
+陶工ろくろ
+ガス・ポンプ
+回転木馬
+揺れ
+リール
+ラジエーター
+パック
+ハードディスク
+サングラス
+選択
+自動車の鏡
+太陽の皿
+遠隔操作
+ディスクブレーキ
+バックル
+ヘアクリップ
+結び目
+ダイヤル錠
+南京錠
+釘
+安全ピン
+ネジ
+鼻づら
+シートベルト
+スキー
+ロウソク
+カボチャのちょうちん
+スポットライト
+トーチ
+首固定器
+埠頭
+三脚
+メイポール
+ネズミ取り
+クモの巣
+三葉虫
+刈入れ人夫
+サソリ
+黒くて金の庭園に住むクモ
+納屋クモ
+庭園に住むクモ
+黒人の未亡人
+タランチュラ
+ドクグモ
+チック
+ムカデ
+等脚類
+イチョウガニ
+イチョウガニ
+シオマネキ
+カブトガニ
+アメリカのロブスター
+イセエビ
+ザリガニ
+ヤドカリ
+ハンミョウ
+テントウムシ
+オサムシ
+カミキリムシ
+ハムシ
+糞虫
+オオツノカブトムシ
+ゾウムシ
+ハエ
+ミツバチ
+バッタ
+クリケット
+ステッキ
+ゴキブリ
+カマキリ
+セミ
+ヨコバイ
+クサカゲロウ
+トンボ
+イトトンボ
+海軍大将
+長い巻き毛
+君主
+モンシロチョウ
+キチョウ
 lycaenid
-jellyfish
-sea anemone
-brain coral
-flatworm
-nematode
-conch
-snail
-slug
-sea slug
-chiton
-sea urchin
-sea cucumber
-iron
-espresso maker
-microwave
-Dutch oven
-rotisserie
-toaster
-waffle iron
-vacuum
-dishwasher
-refrigerator
-washer
-Crock Pot
-frying pan
-wok
-caldron
-coffeepot
-teapot
-spatula
-altar
-triumphal arch
-patio
-steel arch bridge
-suspension bridge
-viaduct
-barn
-greenhouse
-palace
-monastery
-library
-apiary
-boathouse
-church
-mosque
-stupa
-planetarium
-restaurant
-cinema
-home theater
-lumbermill
-coil
-obelisk
-totem pole
-castle
-prison
-grocery store
-bakery
-barbershop
-bookshop
-butcher shop
-confectionery
-shoe shop
-tobacco shop
-toyshop
-fountain
-cliff dwelling
-yurt
-dock
-brass
-megalith
-bannister
-breakwater
-dam
-chainlink fence
-picket fence
-worm fence
-stone wall
-grille
-sliding door
-turnstile
-mountain tent
-scoreboard
-honeycomb
-plate rack
-pedestal
-beacon
-mashed potato
-bell pepper
-head cabbage
-broccoli
-cauliflower
-zucchini
-spaghetti squash
-acorn squash
-butternut squash
-cucumber
-artichoke
-cardoon
-mushroom
-shower curtain
-jean
-carton
-handkerchief
-sandal
-ashcan
-safe
-plate
-necklace
-croquet ball
-fur coat
-thimble
-pajama
-running shoe
-cocktail shaker
-chest
-manhole cover
-modem
-tub
-tray
-balance beam
-bagel
-prayer rug
-kimono
-hot pot
-whiskey jug
-knee pad
-book jacket
-spindle
-ski mask
-beer bottle
-crash helmet
+クラゲ
+イソギンチャク
+脳珊瑚
+扁形動物
+線虫
+巻貝
+カタツムリ
+ナメクジ
+ナマコ
+キトン
+ウニ
+ナマコ
+鉄
+エスプレッソ・メーカー
+電子レンジ
+ダッチオーブン
+焼肉レストラン
+トースター
+ワッフル焼き型
+真空
+食器洗い機
+冷蔵庫
+ワッシャー
+壷ポット
+フライパン
+中華鍋
+大がま
+コーヒーポット
+ティーポット
+へら
+祭壇
+凱旋門
+パティオ
+鋼アーチ橋
+吊橋
+高架橋
+納屋
+温室
+宮殿
+修道院
+図書館
+養蜂場
+ボートハウス
+教会
+モスク
+卒塔婆
+プラネタリウム
+レストラン
+映画
+ホームシアター
+製材所
+コイル
+オベリスク
+トーテムポール
+城
+刑務所
+食料品店
+パン屋
+床屋
+書店
+肉屋
+菓子類
+靴店
+タバコ店
+おもちゃ屋
+噴水
+岩窟住居
+ユルト
+ドック
+真鍮
+巨石
+手すり子
+防波堤
+ダム
+chainlinkフェンス
+杭垣
+スネークフェンス
+石垣
+格子
+引き戸
+回転式改札
+山テント
+スコアボード
+ハチの巣
+皿立て
+台
+ビーコン
+マッシュ・ポテト
+シシトウガラシ
+先頭のキャベツ
+ブロッコリー
+カリフラワー
+ズッキーニ
+スパゲッティ・スカッシュ
+どんぐり型のカボチャ
+バターナット・スカッシュ
+キュウリ
+アーティチョーク
+カルドン
+キノコ
+シャワーのカーテン
+ジーンズ
+カートン
+ハンカチーフ
+サンダル
+灰入れ
+安全な
+プレート
+ネックレス
+クローケー・ボール
+毛皮のコート
+シンブル
+パジャマ
+ランニングシューズ
+カクテル・シェーカー
+胸
+マンホール・カバー
+モデム
+タブ
+トレイ
+平均台
+ベーグル
+膝敷き
+着物
+ホットポット
+ウィスキー水差し
+ひざパッド
+ブックカバー
+スピンドル
+スキーマスク
+ビール瓶
+ヘルメット
 bottlecap
-tile roof
-mask
-maillot
-Petri dish
-football helmet
-bathing cap
-teddy bear
-holster
-pop bottle
-photocopier
-vestment
-crossword puzzle
-golf ball
-trifle
-suit
-water tower
-feather boa
-cloak
-red wine
-drumstick
-shield
-Christmas stocking
-hoopskirt
-menu
-stage
-bonnet
-meat loaf
-baseball
-face powder
-scabbard
-sunscreen
-beer glass
-hen-of-the-woods
-guacamole
-lampshade
-wool
-hay
-bow tie
-mailbag
-water jug
-bucket
-dishrag
-soup bowl
-eggnog
-mortar
-trench coat
-paddle
-chain
-swab
-mixing bowl
-potpie
-wine bottle
-shoji
-bulletproof vest
-drilling platform
-binder
-cardigan
-sweatshirt
-pot
-birdhouse
-hamper
-ping-pong ball
-pencil box
-pay-phone
-consomme
-apron
-punching bag
-backpack
-groom
-bearskin
-pencil sharpener
-broom
-mosquito net
-abaya
-mortarboard
-poncho
-crutch
-Polaroid camera
-space bar
-cup
-racket
-traffic light
-quill
-radio
-dough
-cuirass
-military uniform
-lipstick
-shower cap
-monitor
-oscilloscope
-mitten
-brassiere
-French loaf
-vase
-milk can
-rugby ball
-paper towel
-earthstar
-envelope
-miniskirt
-cowboy hat
-trolleybus
-perfume
-bathtub
-hotdog
-coral fungus
-bullet train
-pillow
-toilet tissue
-cassette
-carpenter's kit
-ladle
-stinkhorn
-lotion
-hair spray
-academic gown
-dome
-crate
-wig
-burrito
-pill bottle
-chain mail
-theater curtain
-window shade
-barrel
-washbasin
-ballpoint
-basketball
-bath towel
-cowboy boot
-gown
-window screen
-agaric
-cellular telephone
-nipple
-barbell
-mailbox
-lab coat
-fire screen
-minibus
-packet
-maze
-pole
-horizontal bar
-sombrero
+タイル屋根
+マスク
+タイツ
+ペトリ皿
+フットボール・ヘルメット
+水泳帽
+テディベア
+ホルスター
+ポップ・ビン
+写真複写機
+礼服
+クロスワードパズル
+ゴルフボール
+つまらない物
+スーツ
+給水塔
+羽毛製襟巻き
+外套
+赤ワイン
+スティック
+シールド
+クリスマスの靴下
+フープスカート
+メニュー
+ステージ
+ボンネット
+ミートローフ
+野球
+おしろい
+さや
+日焼け止め
+ビール・グラス
+木の雌鶏
+グアカモーレ
+ランプシェード
+ウール
+干し草
+蝶ネクタイ
+郵便鞄
+水差し
+バケツ
+布巾
+スープ・ボウル
+エッグノッグ
+モルタル
+トレンチコート
+パドル
+チェーン
+綿
+ミキシングボウル
+ポットパイ
+ワインのボトル
+障子
+防弾チョッキ
+穴あけプラットフォーム
+バインダー
+カーディガン
+スウェットシャツ
+ポット
+巣箱
+バスケット
+ピンポン・ボール
+鉛筆ボックス
+公衆電話
+コンソメ
+エプロン
+パンチバッグ
+バックパック
+花婿
+クマの毛皮
+鉛筆削り
+ほうき
+蚊帳
+アバヤ
+角帽
+ポンチョ
+松葉杖
+ポラロイド・カメラ
+スペース・バー
+カップ
+ラケット
+交通信号
+羽ペン
+ラジオ
+生地
+装甲
+軍服
+口紅
+シャワーキャップ
+モニター
+オシロスコープ
+ミトン
+ブラジャー
+フランスパン
+花瓶
+ミルクはそうすることができます
+ラグビー・ボール
+紙タオル
+エリマキツチグリ
+封筒
+ミニスカート
+カウボーイハット
+トロリーバス
+香水
+浴槽
+ホットドッグ
+珊瑚真菌
+超特急列車
+枕
+トイレットペーパー
+カセット
+大工のキット
+レードル
+スッポンタケ
+ローション
+ヘアスプレー
+ガウン
+ドーム
+木枠
+かつら
+ブリート
+錠剤ビン
+鎖帷子
+劇場のカーテン
+ブラインド
+樽
+洗面器
+ボールペン
+バスケットボール
+バスタオル
+カウボーイブーツ
+ガウン
+ウインドウ・スクリーン
+ハラタケ
+移動電話
+乳首
+バーベル
+メールボックス
+研究室コート
+火熱除け衝立
+小型バス
+箱
+迷路
+棒
+鉄棒
+ソンブレロ
 pickelhaube
-rain barrel
-wallet
-cassette player
-comic book
-piggy bank
-street sign
-bell cote
-fountain pen
-Windsor tie
-volleyball
-overskirt
-sarong
-purse
-bolo tie
-bib
-parachute
-sleeping bag
-television
-swimming trunks
-measuring cup
-espresso
-pizza
-breastplate
-shopping basket
-wooden spoon
-saltshaker
-chocolate sauce
-ballplayer
-goblet
-gyromitra
-stretcher
-water bottle
-dial telephone
-soap dispenser
-jersey
-school bus
-jigsaw puzzle
-plastic bag
-reflex camera
-diaper
-Band Aid
-ice lolly
-velvet
-tennis ball
+声ばかり大きいこと
+財布
+カセットプレーヤー
+漫画雑誌
+貯金箱
+街路標識
+ベル小屋
+万年筆
+ウィンザータイ
+バレーボール
+オーバースカート
+サロン
+財布
+ボロタイ
+前掛け
+パラシュート
+寝袋
+テレビ
+海水パンツ
+計量カップ
+エスプレッソ
+ピザ
+胸当て
+買物かご
+木匙
+塩入れ
+チョコレート・ソース
+野球選手
+ゴブレット
+ジャイロ鸞鳳玉
+ストレッチャー
+水筒
+ダイヤル電話
+石鹸ディスペンサー
+ジャージ
+スクールバス
+ジグソーパズル
+ビニール袋
+レフレックスカメラ
+おしめ
+バンドエイド
+アイス・キャンデー
+ビロード
+テニスボール
 gasmask
-doormat
-Loafer
-ice cream
-pretzel
-quilt
-maillot
-tape player
-clog
+ドアマット
+ローファー
+アイスクリーム
+プレッツェル
+キルト
+タイツ
+テーププレーヤー
+木靴
 iPod
 bolete
-scuba diver
-pitcher
-matchstick
-bikini
-sock
-CD player
-lens cap
-thatch
-vault
-beaker
-bubble
-cheeseburger
-parallel bars
-flagpole
-coffee mug
-rubber eraser
-stole
-carbonara
-dumbbell
+スキューバダイバー
+ピッチャー
+マッチ棒
+ビキニ
+靴下
+CDプレーヤー
+レンズキャップ
+草ぶき屋根
+金庫室
+ビーカー
+泡
+チーズバーガー
+平行棒
+旗竿
+コーヒー・マグ
+ゴム消しゴム
+ストール
+カルボナーラ
+ダンベル
