@@ -60,7 +60,8 @@ public class RecognitionScoreView extends View {
 
     if (results != null) {
       for (final Recognition recog : results) {
-        canvas.drawText(recog.getTitle() + ": " + recog.getConfidence(), x, y, fgPaint);
+        String confidence = ((int)(recog.getConfidence() * 100.0f)) + "%";
+        canvas.drawText(recog.getTitle() + ": " + confidence, x, y, fgPaint);
         y += fgPaint.getTextSize() * 1.5f;
       }
     }
