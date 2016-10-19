@@ -19,5 +19,5 @@ First install NDK, and set path for NDK tools, and then type commands below to c
 
 Youtube: https://www.youtube.com/watch?v=Z7XcoigrEbA
 
-![image](https://dl.dropboxusercontent.com/u/8527/Screenshot_20161015-105832%20%281%29.png)
+![image](https://dl.dropboxusercontent.com/u/8527/Screenshot_20161019-170858.png)
 
