@@ -29,7 +29,7 @@ import org.tensorflow.demo.Classifier.Recognition;
 import java.util.List;
 
 public class RecognitionScoreView extends View {
-  private static final float TEXT_SIZE_DIP = 24;
+  private static final float TEXT_SIZE_DIP = 22;
   private List<Recognition> results;
   private final float textSizePx;
   private final Paint fgPaint;
@@ -75,6 +75,7 @@ public class RecognitionScoreView extends View {
   @Override
   public void onDraw(final Canvas canvas) {
     final int x = 40;
+    final int padding = 20;
     int y = (int) (fgPaint.getTextSize() * 1.5f);
 
 
@@ -85,7 +86,6 @@ public class RecognitionScoreView extends View {
         float w = fgPaint.measureText(s);
         float textSize = fgPaint.getTextSize();
 
-        int padding = 20;
         RectF rectF = new RectF(x-padding, y-textSize-(padding/2), x+w+padding/2, y+padding);
         canvas.drawRoundRect(rectF, 10.0f, 10.0f, bgPaint);
         canvas.drawText(s, x, y, borderPaint);

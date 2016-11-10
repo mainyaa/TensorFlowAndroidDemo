@@ -512,10 +512,10 @@ public class CameraConnectionFragment extends Fragment {
                 // Auto focus should be continuous for camera preview.
                 previewRequestBuilder.set(
                     CaptureRequest.CONTROL_AF_MODE,
-                    CaptureRequest.CONTROL_AF_MODE_CONTINUOUS_PICTURE);
+                    CaptureRequest.CONTROL_AF_STATE_ACTIVE_SCAN);
                 // Flash is automatically enabled when necessary.
                 previewRequestBuilder.set(
-                    CaptureRequest.CONTROL_AE_MODE, CaptureRequest.CONTROL_AE_MODE_ON_AUTO_FLASH);
+                    CaptureRequest.CONTROL_AE_MODE, CaptureRequest.CONTROL_AE_MODE_ON);
 
                 // Finally, we start displaying the camera preview.
                 previewRequest = previewRequestBuilder.build();
